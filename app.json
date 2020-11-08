@@ -3,7 +3,6 @@
     "name": "Mein Kochbuch",
     "slug": "MeinKochbuch",
     "privacy": "public",
-    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
       "android",
@@ -14,7 +13,6 @@
     "icon": "./src/assets/images/icon.png",
     "splash": {
       "image": "./src/assets/images/icon.png",
-      "resizeMode": "center",
       "backgroundColor": "#9acd32"
     },
     "updates": {
@@ -25,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/Anna08081996"
   }
 }
